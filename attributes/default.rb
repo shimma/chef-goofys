@@ -18,4 +18,4 @@
 
 default['goofys']['s3_bucket_name'] = 'my-s3-bucket'
 default['goofys']['s3_mount_path'] = "/srv/#{default['goofys']['s3_bucket_name']}"
-default['goofys']['binary_version'] = "v0.0.17"
+default['goofys']['binary_version'] = 'v0.0.17'
