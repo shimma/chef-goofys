@@ -1,6 +1,8 @@
-#[goofys cookbook](https://github.com/shimma/goofys)
+# [goofys cookbook](https://github.com/shimma/goofys)
 
 Installs [goofys](https://github.com/kahing/goofys) and mounts s3 bucket.
+
+## Information
 
 __This cookbook has not been fully maintained now. Any contributions are welcome!__
 
